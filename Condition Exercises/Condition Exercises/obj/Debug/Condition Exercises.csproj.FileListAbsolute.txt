@@ -1,0 +1,7 @@
+c:\users\user\source\repos\Condition Exercises\Condition Exercises\bin\Debug\Condition Exercises.exe.config
+c:\users\user\source\repos\Condition Exercises\Condition Exercises\bin\Debug\Condition Exercises.exe
+c:\users\user\source\repos\Condition Exercises\Condition Exercises\bin\Debug\Condition Exercises.pdb
+c:\users\user\source\repos\Condition Exercises\Condition Exercises\obj\Debug\Condition Exercises.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\Condition Exercises\Condition Exercises\obj\Debug\Condition Exercises.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Condition Exercises\Condition Exercises\obj\Debug\Condition Exercises.exe
+c:\users\user\source\repos\Condition Exercises\Condition Exercises\obj\Debug\Condition Exercises.pdb

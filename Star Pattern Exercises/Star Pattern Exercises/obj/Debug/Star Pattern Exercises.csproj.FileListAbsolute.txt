@@ -1,0 +1,7 @@
+c:\users\user\source\repos\Star Pattern Exercises\Star Pattern Exercises\bin\Debug\Star Pattern Exercises.exe.config
+c:\users\user\source\repos\Star Pattern Exercises\Star Pattern Exercises\bin\Debug\Star Pattern Exercises.exe
+c:\users\user\source\repos\Star Pattern Exercises\Star Pattern Exercises\bin\Debug\Star Pattern Exercises.pdb
+c:\users\user\source\repos\Star Pattern Exercises\Star Pattern Exercises\obj\Debug\Star Pattern Exercises.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Star Pattern Exercises\Star Pattern Exercises\obj\Debug\Star Pattern Exercises.exe
+c:\users\user\source\repos\Star Pattern Exercises\Star Pattern Exercises\obj\Debug\Star Pattern Exercises.pdb
+c:\users\user\source\repos\Star Pattern Exercises\Star Pattern Exercises\obj\Debug\Star Pattern Exercises.csprojResolveAssemblyReference.cache
